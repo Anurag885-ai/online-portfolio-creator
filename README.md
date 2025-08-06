@@ -61,7 +61,4 @@ A responsive web application that empowers students and professionals to create 
 2. **Classic** - Traditional professional layout
 3. **Creative** - Bold, eye-catching design for creative professionals
 
-## 💻 Local Development
-Want to customize or contribute? Here's how:
 
-```bash
